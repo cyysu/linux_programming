@@ -8,7 +8,7 @@
 #include        <unistd.h>
 #include        <fcntl.h>
 
-#define BUFFERSIZE      4096
+#define BUFFERSIZE      2048
 #define COPYMODE        0644
 
 void oops(char *, char *);
